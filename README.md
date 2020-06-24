@@ -1,1 +1,2 @@
 # test-automerge
+new line
